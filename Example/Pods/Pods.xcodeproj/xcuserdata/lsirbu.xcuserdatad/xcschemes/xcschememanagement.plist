@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>BelerLibrary-BelerLibrary.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>BelerLibrary.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-BelerLibrary_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-BelerLibrary_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0E96B07DCC1F339A5335B7A53FB392AA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>444C1A6D4A05AE7EB0969CB1654A9DE6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A44352B1C8BB7BA3C18028FAB80D836C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F46C1A6A164F619F19EC96EE32D43C5D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

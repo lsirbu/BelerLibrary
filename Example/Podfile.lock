@@ -1,0 +1,14 @@
+PODS:
+  - BelerLibrary (0.1.0)
+
+DEPENDENCIES:
+  - BelerLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  BelerLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BelerLibrary: 568c815483ffc5129d1acfe2678a777718c968db
+
+COCOAPODS: 0.39.0

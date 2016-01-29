@@ -1,0 +1,6 @@
+framework module BelerLibrary {
+  umbrella header "BelerLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

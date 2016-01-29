@@ -1,0 +1,25 @@
+{
+  "name": "BelerLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of BelerLibrary.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/BelerLibrary",
+  "license": "MIT",
+  "authors": {
+    "lsirbu": "lsirbu@belersoft.ro"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/BelerLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "BelerLibrary": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
